@@ -6,5 +6,5 @@ This repository contains colab notebooks for the Essentials of Artificial Intell
 
 | Day | Topic | File |
 |---|---|---|
-| Day 1 | Python Programming | [dummu.ipynb](day-01-python-programming/dummy.ipynb) |
+| Day 1 | Python Programming | [dummy.ipynb](day-01-python-programming/dummy.ipynb) |
 
